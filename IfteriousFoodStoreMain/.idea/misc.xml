@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Ifham Ahmed Khan/AndroidStudioProjects/IfteriousFoodStoreMain/app/src/main/res/drawable/border.xml" value="0.2921875" />
+        <entry key="..\:/Users/Ifham Ahmed Khan/AndroidStudioProjects/IfteriousFoodStoreMain/app/src/main/res/drawable/btn_profile.xml" value="0.2921875" />
+        <entry key="..\:/Users/Ifham Ahmed Khan/AndroidStudioProjects/IfteriousFoodStoreMain/app/src/main/res/drawable/btn_style.xml" value="0.2921875" />
+        <entry key="..\:/Users/Ifham Ahmed Khan/AndroidStudioProjects/IfteriousFoodStoreMain/app/src/main/res/drawable/txt_style.xml" value="0.2921875" />
+        <entry key="..\:/Users/Ifham Ahmed Khan/AndroidStudioProjects/IfteriousFoodStoreMain/app/src/main/res/layout-w1240dp/activity_login2.xml" value="0.214453125" />
+        <entry key="..\:/Users/Ifham Ahmed Khan/AndroidStudioProjects/IfteriousFoodStoreMain/app/src/main/res/layout/activity_bill_payment_deal_five.xml" value="0.2760416666666667" />
+        <entry key="..\:/Users/Ifham Ahmed Khan/AndroidStudioProjects/IfteriousFoodStoreMain/app/src/main/res/layout/activity_bill_payment_deal_four.xml" value="0.2760416666666667" />
+        <entry key="..\:/Users/Ifham Ahmed Khan/AndroidStudioProjects/IfteriousFoodStoreMain/app/src/main/res/layout/activity_bill_payment_deal_one.xml" value="0.2760416666666667" />
+        <entry key="..\:/Users/Ifham Ahmed Khan/AndroidStudioProjects/IfteriousFoodStoreMain/app/src/main/res/layout/activity_bill_payment_deal_six.xml" value="0.2760416666666667" />
+        <entry key="..\:/Users/Ifham Ahmed Khan/AndroidStudioProjects/IfteriousFoodStoreMain/app/src/main/res/layout/activity_bill_payment_deal_three.xml" value="0.2760416666666667" />
+        <entry key="..\:/Users/Ifham Ahmed Khan/AndroidStudioProjects/IfteriousFoodStoreMain/app/src/main/res/layout/activity_bill_payment_deal_two.xml" value="0.2760416666666667" />
+        <entry key="..\:/Users/Ifham Ahmed Khan/AndroidStudioProjects/IfteriousFoodStoreMain/app/src/main/res/layout/activity_deal_five.xml" value="0.2760416666666667" />
+        <entry key="..\:/Users/Ifham Ahmed Khan/AndroidStudioProjects/IfteriousFoodStoreMain/app/src/main/res/layout/activity_deal_four.xml" value="0.2760416666666667" />
+        <entry key="..\:/Users/Ifham Ahmed Khan/AndroidStudioProjects/IfteriousFoodStoreMain/app/src/main/res/layout/activity_deal_one.xml" value="0.25" />
+        <entry key="..\:/Users/Ifham Ahmed Khan/AndroidStudioProjects/IfteriousFoodStoreMain/app/src/main/res/layout/activity_deal_six.xml" value="0.2760416666666667" />
+        <entry key="..\:/Users/Ifham Ahmed Khan/AndroidStudioProjects/IfteriousFoodStoreMain/app/src/main/res/layout/activity_deal_three.xml" value="0.2760416666666667" />
+        <entry key="..\:/Users/Ifham Ahmed Khan/AndroidStudioProjects/IfteriousFoodStoreMain/app/src/main/res/layout/activity_deal_two.xml" value="0.2760416666666667" />
+        <entry key="..\:/Users/Ifham Ahmed Khan/AndroidStudioProjects/IfteriousFoodStoreMain/app/src/main/res/layout/activity_home.xml" value="0.2760416666666667" />
+        <entry key="..\:/Users/Ifham Ahmed Khan/AndroidStudioProjects/IfteriousFoodStoreMain/app/src/main/res/layout/activity_home_page.xml" value="0.32043530834340994" />
+        <entry key="..\:/Users/Ifham Ahmed Khan/AndroidStudioProjects/IfteriousFoodStoreMain/app/src/main/res/layout/activity_login.xml" value="0.2760416666666667" />
+        <entry key="..\:/Users/Ifham Ahmed Khan/AndroidStudioProjects/IfteriousFoodStoreMain/app/src/main/res/layout/activity_login2.xml" value="0.2760416666666667" />
+        <entry key="..\:/Users/Ifham Ahmed Khan/AndroidStudioProjects/IfteriousFoodStoreMain/app/src/main/res/layout/activity_main.xml" value="0.2760416666666667" />
+        <entry key="..\:/Users/Ifham Ahmed Khan/AndroidStudioProjects/IfteriousFoodStoreMain/app/src/main/res/layout/activity_profile.xml" value="0.2760416666666667" />
+        <entry key="..\:/Users/Ifham Ahmed Khan/AndroidStudioProjects/IfteriousFoodStoreMain/app/src/main/res/layout/activity_set_profile.xml" value="0.2760416666666667" />
+        <entry key="..\:/Users/Ifham Ahmed Khan/AndroidStudioProjects/IfteriousFoodStoreMain/app/src/main/res/layout/activity_signup.xml" value="0.2760416666666667" />
+        <entry key="..\:/Users/Ifham Ahmed Khan/AndroidStudioProjects/IfteriousFoodStoreMain/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2921875" />
+        <entry key="..\:/Users/Ifham Ahmed Khan/AndroidStudioProjects/IfteriousFoodStoreMain/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.2921875" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

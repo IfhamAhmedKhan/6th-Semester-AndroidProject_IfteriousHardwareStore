@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.ifteriousfoodstore">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.AppCompat.DayNight.NoActionBar">
+        <activity
+            android:name=".Set_Profile"
+            android:exported="true" />
+        <activity
+            android:name=".Profile"
+            android:exported="true" />
+        <activity
+            android:name=".Bill_Payment_Deal_Six"
+            android:exported="true" />
+        <activity
+            android:name=".Bill_Payment_Deal_Five"
+            android:exported="true" />
+        <activity
+            android:name=".Bill_Payment_Deal_Four"
+            android:exported="true" />
+        <activity
+            android:name=".Bill_Payment_Deal_Three"
+            android:exported="true" />
+        <activity
+            android:name=".Bill_Payment_Deal_Two"
+            android:exported="true" />
+        <activity
+            android:name=".Bill_Payment_Deal_One"
+            android:exported="true" />
+        <activity
+            android:name=".Deal_Six"
+            android:exported="true" />
+        <activity
+            android:name=".Deal_Five"
+            android:exported="true" />
+        <activity
+            android:name=".Deal_Four"
+            android:exported="true" />
+        <activity
+            android:name=".Deal_Three"
+            android:exported="true" />
+        <activity
+            android:name=".Deal_Two"
+            android:exported="true" />
+        <activity
+            android:name=".Deal_One"
+            android:exported="true" />
+        <activity
+            android:name=".Home_page"
+            android:exported="true" />
+        <activity
+            android:name=".Signup"
+            android:exported="true" />
+        <activity
+            android:name=".Login"
+            android:exported="true" />
+        <activity
+            android:name=".HomeActivity"
+            android:exported="true"
+            android:label="Home" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
